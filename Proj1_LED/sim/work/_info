@@ -1,0 +1,66 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/modeltech64_2020.4/examples
+T_opt
+!s110 1722240855
+VUOEDY8DG`3A4[]hBlEF3e3
+04 6 4 work tb_led fast 0
+=1-a8b13b7d4b82-66a74f56-347-5864
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vled
+Z1 !s110 1722240778
+!i10b 1
+!s100 lDE7@bGDXBe7>;A9:aVc:3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IK23i<i^>C;nGzX:3M`Aa32
+Z3 dC:/Users/52853/Desktop/ZDYZ/Proj1_LED/sim
+w1722240522
+8C:/Users/52853/Desktop/ZDYZ/Proj1_LED/rtl/led.v
+FC:/Users/52853/Desktop/ZDYZ/Proj1_LED/rtl/led.v
+!i122 2
+L0 1 8
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z6 !s108 1722240778.000000
+!s107 C:/Users/52853/Desktop/ZDYZ/Proj1_LED/rtl/led.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/52853/Desktop/ZDYZ/Proj1_LED/rtl/led.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vtb_led
+R1
+!i10b 1
+!s100 2AB7IFgz4LFDG?2l9jC>O0
+R2
+I8^4OAknlFJZgm=W7k9QA20
+R3
+w1722240775
+8C:/Users/52853/Desktop/ZDYZ/Proj1_LED/sim/tb/tb_led.v
+FC:/Users/52853/Desktop/ZDYZ/Proj1_LED/sim/tb/tb_led.v
+!i122 1
+L0 2 22
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/52853/Desktop/ZDYZ/Proj1_LED/sim/tb/tb_led.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/52853/Desktop/ZDYZ/Proj1_LED/sim/tb/tb_led.v|
+!i113 0
+R7
+R0

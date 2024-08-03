@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Wed Jul 31 15:05:25 2024
+# Process ID: 6788
+# Current directory: C:/Users/52853/Desktop/VivadoProj/ZDYZ/Proj1_LED/prj/Project2_LEDFlow.runs/synth_1
+# Command line: vivado.exe -log led_flow.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source led_flow.tcl
+# Log file: C:/Users/52853/Desktop/VivadoProj/ZDYZ/Proj1_LED/prj/Project2_LEDFlow.runs/synth_1/led_flow.vds
+# Journal file: C:/Users/52853/Desktop/VivadoProj/ZDYZ/Proj1_LED/prj/Project2_LEDFlow.runs/synth_1\vivado.jou
+# Running On: Twistzz_Laptop, OS: Windows, CPU Frequency: 2688 MHz, CPU Physical cores: 14, Host memory: 34010 MB
+#-----------------------------------------------------------
+source led_flow.tcl -notrace
