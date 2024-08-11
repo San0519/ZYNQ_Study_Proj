@@ -12,6 +12,7 @@ Projects files usually consist of the following components:
 
 PS: 
 1. Mindmap and some files in non-coding may be written in Chinese, thus there is no help except the in-text comments will be provided;
-2. Only for study purposes, no authentication will be provided for other commercial use;
-3. Originally for self-study and records, no pull request will be accepted;
-4. Hope to be helpful for you all.
+2. Folder "doc" sometimes is empty to accelerate the developing period, and it is unsured that relating files will be committed.
+3. Only for study purposes, no authentication will be provided for other commercial use;
+4. Originally for self-study and records, no pull request will be accepted;
+5. Hope to be helpful for you all.
